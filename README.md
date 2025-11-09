@@ -19,7 +19,7 @@ A simple Task Management API built with Laravel that supports full CRUD (Create,
 
 ```bash
    git clone https://github.com/SteveEnny/Afrifounders-assessment-task.git
-   cd Afrifounders-assessment-task.git
+   cd Afrifounders-assessment-task
 ```
 
 2. **Install dependencies**
